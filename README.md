@@ -12,3 +12,6 @@ If you have click installed simply run weather.py else use the following command
 
 pip install -r requirements.txt
 
+**Note**
+
+For a description of the logic behind the solution run python narrative.py
